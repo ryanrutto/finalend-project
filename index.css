@@ -1,0 +1,156 @@
+
+body{
+  background-color: rgb(245, 245, 248);
+  margin-top: 90px;
+  background-image: url(assets/st.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.nav{
+    position: absolute;
+   
+  }
+  ul{
+    list-style: none;
+    display: flex;
+    gap: 100px;
+    padding-left: 20px;
+ font-size: larger;
+ margin-top: 70px;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+
+  }
+
+  
+  .well{
+    background-color: red;
+    font-size: x-large;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  /*BODYYY*/
+  .contain{
+    margin-left: 400px;
+    margin-top: 130px;
+    font-size: xx-large;
+    color: rgb(248, 241, 241);
+    font-style: italic;
+  }
+  .contain2{
+    color: white;
+    font-size: x-large;
+    margin-left: 150px;
+  }
+
+
+
+  .problem-1{
+color: rgb(7, 6, 6);
+margin-top: 400px;
+margin-left: 320px;
+font-size: x-large;
+
+  }
+  .problem-2{
+margin-left: 100px;
+font-size: xx-large;
+color: rgb(0, 0, 0);
+  }
+  .problem-2 h5{
+margin-left: 45px;
+margin-top: 50px;
+  }
+  .problem-3{
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+    margin-left: 350px;
+    margin-top: 20px;
+  }
+  .bbB{
+    font-size: larger;
+    background-color: darkgoldenrod;
+    box-shadow:5px 10px pink ;
+    margin-left: 520px;
+  }
+.logg{
+  background-color: rgb(113, 93, 226);
+  background-image: url(assets/ttr.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 70px;
+  height: 250px;
+}
+.contain3{
+color: black;
+margin-top: 150px;
+margin-left: 400px;
+font-size: x-large;
+
+}
+.contain4{
+  font-size: x-large;
+ margin-left:400px ;
+
+}
+.contain4 label{
+margin-left: 90px;
+
+}
+.contain4 input{
+  font-size: larger;
+  border-radius: 10px;
+}
+.bb{
+  font-size: larger;
+  box-shadow: 3px 3px red;
+  border-radius: 10px;
+}
+
+
+/*body*/
+  .cont{
+  display: flex;
+  justify-content: space-between;
+  margin-top:100px;
+  margin-right: 37px;
+  }
+  .container-co2{
+  
+
+    border-radius: 15px;
+    background-color: white;
+      padding: 20px;
+      width: 300px;
+      height: 150px;
+      margin-top: 70px;
+      margin-left: 50px;
+      box-shadow: 5px 10px  black;
+  }
+  .container-co3{
+    border-radius: 15px;
+    background-color: white;
+      padding: 20px;
+      width: 300px;
+      height: 150px;
+      margin-top: 70px;
+      margin-left: 50px;
+      box-shadow: 5px 10px black;
+  }
+  .container-co4{
+   
+      border-radius: 15px;
+      background-color: white;
+        padding: 20px;
+        width: 300px;
+        height: 150px;
+        margin-top: 70px;
+        margin-left: 50px;
+        box-shadow: 5px 10px black;
+ 
+  }
+  

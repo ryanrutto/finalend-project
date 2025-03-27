@@ -1,0 +1,52 @@
+body{
+    background: url(assets/st.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;}
+.container {
+    width: 50%;
+    margin: 50px auto;
+    background: white;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+h2 {
+    text-align: center;
+}
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+input, textarea {
+    width:98%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+button {
+    width: 100%;
+    padding: 10px;
+    background: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+button:hover {
+    background: #218838;
+}
+.team{
+    font-size: larger;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.team-1{
+    display: flex;
+    justify-content: space-between;
+}
+.team-2{
+    width: 30%;
+    border-radius: 10px;
+    
+}

@@ -1,0 +1,54 @@
+body{
+    background-image: url(assets/gpt.webp);
+}
+
+.log{
+    display: flex;
+  
+    
+}
+.logg{
+ 
+
+    background-color: white;
+      padding: 20px;
+      width: 400px;
+      height: 350px;
+      margin-top: 100px;
+      margin-left: 200px;
+      box-shadow: 5px 10px  black;
+     
+}
+.loggg{
+ 
+
+    background-color: white;
+      padding: 20px;
+      width: 400px;
+      height: 610px;
+      margin-top: 100px;
+      margin-left: 40px;
+      box-shadow: 5px 10px  black;
+      
+     
+}
+.lo{
+    color: #000;
+   font-size: larger;
+   margin-left: 20px;
+}
+.lo label{
+    font-size: larger;
+}
+.lo input{
+font-size: larger;
+}
+#Country{
+font-size: larger;
+margin-left: 40px;
+
+}
+
+.donat{
+    font-size: large;
+}

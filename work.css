@@ -1,0 +1,126 @@
+.nav{
+    position: absolute;
+   
+  }
+  ul{
+    list-style: none;
+    display: flex;
+    gap: 80px;
+    padding-left: 60px;
+ font-size: larger;
+ margin-top: 70px;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+
+  }
+.container-1{
+    margin-left: 450px;
+    margin-top: 200px;
+}
+.container-10{
+    margin-left: 20px;
+    font-size: large;
+    color: blue;
+}
+.image-container{
+    display: flex;
+    justify-content: space-between;
+margin-top: 100px;
+margin-right: 20px;
+}
+.image-container-1{
+    background: url(assets/oceann.jpeg);
+    border-radius: 10px;
+    background-color: white;
+      padding: 20px;
+      width: 320px;
+      height: 250px;
+      margin-top: 70px;
+      margin-left: 50px;
+    
+}
+.image-container-2{
+    background: url(assets/energy.webp);
+    border-radius: 10px;
+    background-color: white;
+      padding: 20px;
+      width: 320px;
+      height: 250px;
+      margin-top: 70px;
+      margin-left: 50px;
+     
+}
+.image-container-3{
+    border-radius: 10px;
+    background-color: white;
+      padding: 20px;
+      width: 320px;
+      height: 250px;
+      margin-top: 70px;
+      margin-left: 50px;
+    background: url(assets/fs.jpeg);
+}
+
+
+.imagebody{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20px;
+}
+.imagebody-1{
+    background: url(assets/plastic.jpeg);
+    border-radius: 10px;
+    background-color: white;
+      padding: 20px;
+      width: 320px;
+      height: 250px;
+      margin-top: 70px;
+      margin-left: 50px;
+}
+.imagebody-2{
+    border-radius: 10px;
+    background-color: white;
+      padding: 20px;
+      width: 320px;
+      height: 250px;
+      margin-top: 70px;
+      margin-left: 50px;
+    background: url(assets/mining.jpeg);
+}
+.imagebody-3{
+   background: url(assets/ttr.jpeg);
+    background-color: white;
+      padding: 20px;
+      width: 320px;
+      height: 250px;
+      margin-top: 70px;
+      margin-left: 50px;
+      border-radius: 10px;
+}
+
+
+.campaign-1{
+    margin-top: 100px;
+    font-size: large;
+    color: black;
+    margin-left:430px ;
+}
+.campaign p{
+font-size: large;
+margin-left: 200px;
+color: blue;
+}
+.take-1{
+    font-size: large;
+    color: black;
+    margin-top: 100px;
+    margin-left: 340px;
+}
+.take-2{
+    font-size: large;
+    margin-left: 200px;
+    color: blue;
+}
